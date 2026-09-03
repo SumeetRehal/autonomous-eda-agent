@@ -69,7 +69,7 @@ Ensure Ollama is running in the background.
 
 2. Clone Repository & Setup Environment
 Bash
-git clone [https://github.com/](https://github.com/)<your-username>/autonomous-eda-agent.git
+git clone git clone https://github.com/SumeetRehal/autonomous-eda-agent.git
 cd autonomous-eda-agent
 
 # Create virtual environment
