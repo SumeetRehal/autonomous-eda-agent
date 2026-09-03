@@ -1,0 +1,201 @@
+Transaction_ID,Customer_Age,Gender,Product_Category,Purchase_Amount,Discount_Applied,Payment_Method,Delivery_Days,Rating
+10001,56,Male,Home & Kitchen,290.5,0,Credit Card,5,3
+10002,46,Female,Beauty,40.47,0,Debit Card,4,5
+10003,32,Male,Electronics,40.1,5,Net Banking,5,2
+10004,60,Male,Apparel,118.91,15,Credit Card,3,4
+10005,25,Male,Apparel,201.24,0,Debit Card,4,5
+10006,38,Female,Electronics,287.47,0,UPI,5,4
+10007,56,Female,Home & Kitchen,100.99,20,UPI,3,4
+10008,36,Male,Apparel,40.68,15,Credit Card,4,2
+10009,40,Male,Apparel,15.67,0,Debit Card,6,3
+10010,28,Female,Apparel,107.58,15,Credit Card,4,2
+10011,28,Male,Electronics,63.13,5,Credit Card,2,5
+10012,41,Male,Beauty,45.88,10,Debit Card,3,5
+10013,53,Female,Apparel,163.94,0,Debit Card,5,5
+10014,57,Other,Beauty,17.66,20,Net Banking,3,2
+10015,41,Male,Home & Kitchen,54.1,5,Debit Card,2,4
+10016,20,Female,Apparel,10.74,15,UPI,4,4
+10017,39,Female,Apparel,51.1,5,Credit Card,4,1
+10018,19,Male,Home & Kitchen,13.77,0,Credit Card,5,5
+10019,41,Female,Apparel,18.22,15,UPI,3,4
+10020,61,Male,Beauty,18.13,10,Debit Card,7,1
+10021,47,Female,Electronics,78.09,5,UPI,4,4
+10022,55,Female,Beauty,99.09,0,UPI,5,5
+10023,19,Female,Electronics,66.91,20,Net Banking,2,3
+10024,38,Male,Electronics,222.86,15,UPI,9,5
+10025,50,Female,Beauty,40.54,5,Credit Card,2,2
+10026,29,Male,Beauty,31.87,5,UPI,1,4
+10027,39,Male,Beauty,141.92,10,Credit Card,3,4
+10028,61,Male,Beauty,26.45,10,Credit Card,6,2
+10029,42,Female,Home & Kitchen,224.69,20,Credit Card,1,2
+10030,44,Female,Apparel,10.79,20,Debit Card,2,3
+10031,59,Male,Electronics,237.66,0,Net Banking,8,4
+10032,45,Female,Beauty,12.87,0,Credit Card,7,4
+10033,33,Male,Beauty,154.15,20,Credit Card,3,3
+10034,32,Female,Beauty,58.76,20,Debit Card,1,1
+10035,64,Male,Home & Kitchen,332.19,15,Credit Card,6,3
+10036,61,Female,Beauty,14.98,10,UPI,4,5
+10037,20,Male,Beauty,62.46,0,UPI,5,4
+10038,54,Female,Beauty,236.43,10,Net Banking,3,2
+10039,24,Male,Apparel,58.13,10,Credit Card,3,5
+10040,38,Male,Home & Kitchen,74.52,20,Debit Card,5,4
+10041,26,Male,Beauty,87.34,15,UPI,5,3
+10042,56,Female,Electronics,49.4,5,Debit Card,4,5
+10043,35,Female,Electronics,74.2,15,Debit Card,6,4
+10044,21,Male,Electronics,67.06,15,UPI,3,1
+10045,42,Female,Home & Kitchen,160.43,10,Debit Card,4,1
+10046,31,Female,Home & Kitchen,13.02,15,UPI,2,2
+10047,26,Female,Electronics,31.44,0,Debit Card,7,4
+10048,43,Female,Beauty,205.26,10,UPI,10,1
+10049,19,Male,Home & Kitchen,153.63,0,Credit Card,4,3
+10050,37,Male,Electronics,49.53,5,Net Banking,4,4
+10051,45,Female,Electronics,72.92,10,UPI,3,3
+10052,64,Female,Beauty,31.12,5,UPI,5,3
+10053,24,Female,Apparel,23.55,10,Net Banking,5,1
+10054,61,Male,Home & Kitchen,50.5,20,UPI,5,4
+10055,25,Male,Beauty,38.34,15,UPI,2,5
+10056,64,Female,Electronics,66.96,20,Debit Card,2,1
+10057,52,Female,Electronics,15.26,5,Net Banking,5,1
+10058,31,Female,Beauty,248.22,15,Credit Card,2,4
+10059,34,Female,Home & Kitchen,288.45,10,UPI,1,4
+10060,53,Female,Apparel,87.86,15,Net Banking,6,3
+10061,57,Male,Apparel,59.93,0,Debit Card,4,4
+10062,21,Male,Electronics,34.07,15,Credit Card,3,3
+10063,19,Female,Home & Kitchen,119.26,0,Net Banking,5,1
+10064,23,Female,Apparel,85.03,15,Credit Card,5,2
+10065,59,Male,Home & Kitchen,21.54,0,Credit Card,1,5
+10066,21,Male,Home & Kitchen,167.19,5,Credit Card,5,1
+10067,46,Female,Electronics,122.38,20,UPI,7,4
+10068,35,Male,Apparel,204.46,10,UPI,5,5
+10069,43,Male,Beauty,94.08,15,Debit Card,4,2
+10070,61,Female,Electronics,71.78,20,Debit Card,4,2
+10071,51,Female,Apparel,45.21,10,Net Banking,0,3
+10072,27,Female,Apparel,185.44,10,Debit Card,2,5
+10073,53,Male,Apparel,140.68,0,Credit Card,5,3
+10074,31,Female,Apparel,13.01,5,Credit Card,2,1
+10075,48,Male,Apparel,11.74,5,UPI,5,5
+10076,32,Male,Home & Kitchen,40.7,20,Credit Card,0,1
+10077,25,Female,Electronics,118.14,5,Net Banking,2,3
+10078,31,Female,Home & Kitchen,293.68,15,Credit Card,1,5
+10079,40,Female,Beauty,20.6,5,Credit Card,2,3
+10080,57,Female,Apparel,68.61,20,Net Banking,4,5
+10081,38,Female,Electronics,41.17,5,Debit Card,3,3
+10082,33,Male,Apparel,237.74,15,Debit Card,4,2
+10083,62,Male,Electronics,129.98,0,Net Banking,4,3
+10084,35,Male,Home & Kitchen,128.44,20,UPI,7,2
+10085,64,Male,Electronics,51.11,0,Credit Card,1,3
+10086,41,Other,Beauty,44.83,0,Net Banking,4,5
+10087,43,Male,Beauty,30.76,0,Credit Card,6,5
+10088,42,Female,Electronics,13.77,10,UPI,5,5
+10089,62,Female,Electronics,140.03,10,Credit Card,1,4
+10090,58,Female,Electronics,118.95,0,Net Banking,6,1
+10091,46,Female,Electronics,541.21,20,Credit Card,4,5
+10092,32,Female,Beauty,380.17,15,Debit Card,7,2
+10093,62,Female,Apparel,62.69,15,UPI,4,5
+10094,18,Male,Electronics,105.24,5,UPI,5,4
+10095,42,Female,Electronics,198.25,20,UPI,6,2
+10096,24,Male,Beauty,133.16,10,Net Banking,4,4
+10097,26,Male,Beauty,28.47,0,UPI,5,2
+10098,41,Female,Home & Kitchen,48.92,5,Debit Card,1,3
+10099,18,Male,Electronics,18.99,15,Net Banking,4,1
+10100,61,Female,Home & Kitchen,210.21,10,Debit Card,3,1
+10101,25,Female,Beauty,70.57,10,Credit Card,1,4
+10102,41,Female,Beauty,26.87,0,Credit Card,7,1
+10103,28,Male,Apparel,82.4,15,Credit Card,2,4
+10104,34,Male,Electronics,72.57,20,Credit Card,3,4
+10105,25,Female,Home & Kitchen,38.82,10,Debit Card,4,4
+10106,52,Male,Beauty,17.84,0,Net Banking,3,1
+10107,52,Other,Beauty,82.37,20,Net Banking,7,4
+10108,50,Other,Home & Kitchen,57.75,15,UPI,1,1
+10109,22,Female,Apparel,106.19,10,Debit Card,4,4
+10110,59,Male,Beauty,57.73,20,Credit Card,7,5
+10111,56,Male,Electronics,134.27,20,Debit Card,4,4
+10112,58,Female,Beauty,62.18,20,UPI,6,2
+10113,45,Male,Electronics,63.5,10,UPI,3,4
+10114,24,Male,Home & Kitchen,146.03,10,Debit Card,8,3
+10115,26,Female,Electronics,43.58,5,Debit Card,6,4
+10116,25,Female,Home & Kitchen,19.35,15,Debit Card,1,2
+10117,29,Female,Electronics,11.9,0,Net Banking,4,2
+10118,51,Female,Home & Kitchen,101.46,20,Credit Card,3,1
+10119,50,Male,Electronics,72.95,5,Debit Card,3,5
+10120,40,Female,Apparel,89.15,0,Debit Card,5,4
+10121,41,Other,Electronics,25.57,5,Debit Card,4,1
+10122,54,Male,Electronics,19.53,10,UPI,5,5
+10123,52,Female,Apparel,10.95,20,UPI,1,4
+10124,61,Female,Beauty,38.06,0,Net Banking,4,3
+10125,57,Female,Beauty,67.94,0,Credit Card,3,4
+10126,39,Female,Electronics,42.37,0,Net Banking,3,2
+10127,44,Female,Apparel,47.4,0,Credit Card,5,2
+10128,52,Male,Electronics,162.43,0,UPI,2,3
+10129,18,Male,Home & Kitchen,37.83,5,UPI,3,1
+10130,52,Female,Home & Kitchen,56.9,20,UPI,6,5
+10131,54,Female,Electronics,109.51,10,Net Banking,6,4
+10132,64,Female,Beauty,42.83,10,Debit Card,5,2
+10133,31,Female,Beauty,73.25,10,Debit Card,5,1
+10134,20,Female,Electronics,138.9,10,UPI,5,3
+10135,18,Female,Electronics,204.1,5,Debit Card,2,2
+10136,22,Female,Home & Kitchen,20.34,15,Debit Card,5,3
+10137,43,Female,Beauty,179.76,20,Net Banking,5,4
+10138,31,Female,Electronics,54.04,0,Credit Card,4,5
+10139,56,Female,Home & Kitchen,29.42,15,UPI,3,2
+10140,44,Female,Beauty,49.95,10,UPI,2,2
+10141,26,Male,Apparel,264.39,15,Net Banking,3,4
+10142,32,Male,Home & Kitchen,54.1,20,Net Banking,3,1
+10143,32,Male,Beauty,35.91,0,Debit Card,5,5
+10144,43,Female,Beauty,75.23,0,UPI,6,2
+10145,59,Male,Home & Kitchen,27.85,20,Credit Card,4,5
+10146,30,Male,Apparel,15.13,20,Net Banking,3,2
+10147,49,Female,Home & Kitchen,18.97,10,Credit Card,5,5
+10148,56,Male,Beauty,18.91,0,Credit Card,7,3
+10149,49,Female,Electronics,20.71,15,UPI,5,2
+10150,21,Male,Electronics,19.71,5,UPI,3,5
+10151,47,Male,Home & Kitchen,76.57,5,Net Banking,5,1
+10152,54,Female,Beauty,23.05,20,UPI,7,3
+10153,40,Male,Electronics,37.57,10,UPI,7,3
+10154,56,Male,Beauty,157.61,5,UPI,3,1
+10155,62,Female,Home & Kitchen,51.75,0,Credit Card,7,5
+10156,32,Female,Electronics,81.58,20,Net Banking,4,4
+10157,60,Male,Beauty,22.29,15,Debit Card,2,1
+10158,46,Female,Electronics,23.88,20,Credit Card,5,5
+10159,53,Male,Home & Kitchen,12.71,15,UPI,3,1
+10160,30,Male,Beauty,22.03,20,Credit Card,3,1
+10161,49,Female,Electronics,31.23,20,UPI,3,2
+10162,24,Female,Home & Kitchen,22.66,20,UPI,4,5
+10163,39,Female,Electronics,16.04,15,Credit Card,1,4
+10164,45,Female,Electronics,18.36,15,Net Banking,3,2
+10165,19,Other,Apparel,50.15,20,UPI,7,1
+10166,59,Female,Apparel,25.02,5,Net Banking,3,1
+10167,62,Male,Home & Kitchen,39.44,10,Debit Card,5,1
+10168,23,Female,Apparel,55.5,10,UPI,2,5
+10169,45,Male,Home & Kitchen,86.21,10,Net Banking,3,5
+10170,45,Male,Apparel,12.61,15,Net Banking,1,2
+10171,61,Male,Electronics,114.42,15,Debit Card,5,4
+10172,61,Male,Home & Kitchen,74.26,5,Net Banking,4,2
+10173,37,Other,Home & Kitchen,15.54,10,Net Banking,3,3
+10174,47,Female,Electronics,144.43,10,Debit Card,7,1
+10175,28,Female,Home & Kitchen,174.89,20,UPI,4,1
+10176,45,Male,Home & Kitchen,14.1,15,Net Banking,7,1
+10177,42,Male,Apparel,31.07,10,Net Banking,5,2
+10178,56,Male,Home & Kitchen,116.66,5,Net Banking,2,2
+10179,50,Male,Beauty,99.66,5,Credit Card,1,1
+10180,18,Female,Electronics,23.26,10,Debit Card,6,2
+10181,44,Female,Apparel,25.27,15,Credit Card,2,5
+10182,30,Female,Apparel,40.08,5,Debit Card,3,5
+10183,58,Male,Beauty,53.07,20,UPI,3,2
+10184,20,Female,Electronics,72.6,5,UPI,3,1
+10185,56,Female,Electronics,39.92,0,Net Banking,4,2
+10186,23,Female,Apparel,50.36,0,Debit Card,9,2
+10187,25,Female,Home & Kitchen,99.45,15,UPI,4,2
+10188,44,Male,Apparel,12.43,10,Debit Card,4,3
+10189,26,Male,Electronics,28.91,15,UPI,7,5
+10190,54,Male,Beauty,91.22,15,Credit Card,7,4
+10191,50,Female,Apparel,156.62,15,UPI,4,4
+10192,59,Male,Electronics,56.59,15,Credit Card,3,3
+10193,61,Male,Apparel,59.37,20,UPI,6,2
+10194,41,Male,Home & Kitchen,17.37,20,Net Banking,6,3
+10195,32,Male,Apparel,48.55,5,Credit Card,0,3
+10196,49,Female,Apparel,59.44,0,UPI,3,1
+10197,49,Female,Electronics,28.05,15,Net Banking,5,5
+10198,41,Male,Electronics,30.39,5,Credit Card,4,4
+10199,58,Male,Electronics,40.79,0,Net Banking,3,2
+10200,29,Female,Apparel,11.32,10,Debit Card,3,4
